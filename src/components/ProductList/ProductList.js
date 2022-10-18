@@ -1,6 +1,6 @@
 import React from 'react'
 import Diwali from './Diwali/Diwali'
-import Groceries from './Groceries/Groceries'
+
 import Electronics from './Electronics/Electronics'
 
 function ProductList() {
@@ -11,7 +11,7 @@ function ProductList() {
             <Diwali />
 
             <Electronics />
-            <Groceries />
+
 
         </div>
 

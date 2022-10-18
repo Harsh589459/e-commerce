@@ -1,4 +1,7 @@
 .footer {
+    margin-top: 20px;
+    width: 100%;
     padding: 30px;
     text-align: center;
+    background-color: #ededed;
 }
